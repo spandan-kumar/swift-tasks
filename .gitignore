@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Build Artifacts
+MenuBarTodo.app/
+MenuBarTodo.zip
+README.txt
+
+# Xcode / Swift
+.build/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+
+# Editors
+.vscode/
+*.swp
